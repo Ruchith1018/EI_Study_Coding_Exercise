@@ -49,7 +49,7 @@ This repository contains various implementations of common design patterns in Ja
      - `Worker`: Represents an employee who can have subordinates.
      - `Main`: Demonstrates the creation of an organization hierarchy and prints out the structure.
 
-# Exercise 2 - Astronaut Daily Schedule Organizer
+# [Exercise-2](https://github.com/Ruchith1018/EI_Study_Coding_Exercise/tree/main/Exercise-2) - Astronaut Daily Schedule Organizer
 
 ## Overview
 The **Astronaut Daily Schedule Organizer** is a console application designed to manage daily tasks effectively. This application allows users to add, remove, and view tasks with specific descriptions, times, and priorities. It also includes features for marking tasks as completed and filtering tasks based on priority.
