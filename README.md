@@ -1,4 +1,4 @@
-# Design Patterns in Java - Exercise 1
+# [Exercise-1](https://github.com/Ruchith1018/EI_Study_Coding_Exercise/tree/main/Exercise-1) - Design Patterns in Java
 
 ## Overview
 This repository contains various implementations of common design patterns in Java. Each implementation demonstrates a specific design pattern with corresponding classes and a main execution class to illustrate their functionality. 
